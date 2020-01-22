@@ -1,0 +1,13 @@
+{
+  "sequence": 10,
+  "template name": "Rich Display Hello World",
+  "description": "A Hello World app with both dynamic output and input fields",
+  "image": "/cloud/template-icons/node_js_rich_display.png",
+  "app start": "subfile.js",
+  "routes": {},
+  "template dir": "rich-display-hello-world",
+  "current git repository": "",
+  "git repositories": [
+    ""
+  ]
+}
